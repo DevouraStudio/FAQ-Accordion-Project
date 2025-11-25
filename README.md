@@ -17,7 +17,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ## Overview
 
-### The challenge
+### The challenge:
 
 Users should be able to:
 
@@ -26,19 +26,19 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots:
 
 ![Desktop](/Screenshot.png)
 ![Mobile](/Screenshot2.png)
 
-### Links
+### Links:
 
-- Solution URL: [Add solution URL here](https://github.com/DevouraStudio/FAQ-Accardion-Project)
-- Live Site URL: [Add live site URL here](https://devourastudio.github.io/FAQ-Accardion-Project/)
+- Solution URL: [solution URL](https://github.com/DevouraStudio/FAQ-Accordion-Project)
+- Live Site URL: [live site URL](https://devourastudio.github.io/FAQ-Accordion-Project/)
 
 ## My process
 
-### Built with
+### Built with:
 
 - Semantic HTML5 markup and boilerplate
 - CSS custom properties
@@ -47,13 +47,13 @@ Users should be able to:
 - Desktop-first workflow
 - [Bootstrap](https://getbootstrap.com/) - CSS framework
 
-### What I learned
+### What I learned:
 
-I acquired a substantial amount of valuable knowledge through this project. I gained proficiency in using modern Bootstrap accordions effectively and in customizing them in a professional and creative manner, striving to achieve a high level of expertise.
+"I Acquired A Substantial Amount Of Valuable Knowledge Through This Project. I Gained Proficiency In Using Modern Bootstrap Accordions Effectively And In Customizing Them In A Professional And Creative Manner, Striving To Achieve A High Level Of Expertise.
 
-I also encountered challenges related to margins and paddings, which proved to be highly instructive and facilitated the development of responsive code. Through this experience, I enhanced my proficiency in applying CSS measurement units, such as viewport height (vh) and rem, more accurately than before.
+I Also Encountered Challenges Related To Margins And Paddings, Which Proved To Be Highly Instructive And Facilitated The Development Of Responsive Code. Through This Experience, I Enhanced My Proficiency In Applying CSS Measurement Units, Such As Viewport Height (Vh) And Rem, More Accurately Than Before.
 
-Furthermore, I was able to effectively manage and refine the responsiveness of the code, successfully navigating the complexities of this project as a beginner.
+Furthermore, I Was Able To Effectively Manage And Refine The Responsiveness Of The Code, Successfully Navigating The Complexities Of This Project As A Beginner."
 
 
 ```html
@@ -89,7 +89,7 @@ Furthermore, I was able to effectively manage and refine the responsiveness of t
 }
 ```
 
-### Continued development
+### Continued development:
 
 "Moving Forward, I Aim To Advance My Expertise In Bootstrap, Enabling Me To Develop Projects Independently Without Relying On Documentation, And To Deliver Work Of Higher Quality And Sophistication.
 
@@ -97,7 +97,7 @@ Furthermore, Mastering Code Responsiveness Remains A Crucial Objective. By Enhan
 
 Finally, Achieving A Comprehensive Understanding Of CSS Measurement Units Is Essential For Writing Accurate And Maintainable Code. I Plan To Deepen My Knowledge In This Area To Apply These Concepts More Effectively In Future Projects."
 
-### Useful resources
+### Useful resources:
 
 - [MDN](https://developer.mozilla.org/en-US/) - "During This Project, I Frequently Referred to the Mozilla Developer Network (MDN) Website as a Trusted Resource for Learning and Clarifying HTML, CSS, and JavaScript. MDN Provided Clear Documentation, Practical Examples, and Best Practices That Helped Me Solve Challenges More Efficiently. Using MDN Not Only Improved My Technical Accuracy but Also Strengthened My Confidence in Applying Modern Web Standards to My Work."
 
@@ -111,6 +111,5 @@ Finally, Achieving A Comprehensive Understanding Of CSS Measurement Units Is Ess
 
 - Website - [DevouraStudio](https://www.devoura.ir)
 - Frontend Mentor - [@DevouraStudio](https://www.frontendmentor.io/profile/DevouraStudio)
-- Dribble - [@DevouraStudio](https://www.dribbble.com/DevouraStudio)
 - Github - [@DevouraStudio](https://www.github.com/DevouraStudio)
 - Codepen - [@DevouraStudio](https://www.codepen.io/DevouraStudio)
